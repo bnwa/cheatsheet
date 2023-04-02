@@ -22,3 +22,5 @@
 #### Or assign a copy of the global argument list to a window
 `:argl[ocal]`
 
+### Paste Register from Insert mode
+`<C-r> {register}`
